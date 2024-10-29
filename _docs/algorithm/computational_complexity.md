@@ -12,9 +12,9 @@ Computational Complexity
 What is?
 {: .fs-6 .fw-300  }
 
-Typically, computational complexity is the amount of time and memory needed to run algorithms. However, computational complexity theory is the study of the complexity of problems while [algorithm analysis](#analysis) is the study of the complexity of algorithms [[2]](#ref2).
+Typically, computational complexity is the amount of time and memory needed to run algorithms. However, computational complexity theory is the study of the complexity of problems while [algorithm analysis](#analysis) is the study of the complexity of algorithms.
 
-Both these areas are highly related, since to design efficient algorithms it is essential to study their complexity. This is because, in most cases, we known that the complexity of a problem is less than the complexity of the algorithms. [[2]](# ref2) [[4]](#ref4).
+Both these areas are highly related, since to design efficient algorithms it is essential to study their complexity. This is because, in most cases, we known that the complexity of a problem is less than the complexity of the algorithms.
 
 # Most common notations
 
@@ -66,18 +66,3 @@ Here you can see a short summary:
     <img src="{{ site.baseurl }}/assets/images/bigo_resume.jpg" class="img-fluid" />
 </a>
 
-###### From [FARIAS (2019)](#ref1)
-
-## References
-
-[1] FARIAS, D. (2019) Complexidade de algoritmos - Notação Big O. *DEV*. Available at: <https://dev.to/danielle8farias/complexidade-de-algoritmos-notacao-big-o-26al>. Accessed: December 20, 2021.
-{: #ref1}
-
-[2] WANGENHEI, A. Complexidade de algoritmos. *LAPiX*. Available at: <https://lapix.ufsc.br/ensino/estrutura-de-dados/complexidade-de-algoritmos/>. Accessed: December 20, 2021.
-{: #ref2}
-
-[3] WIKIPEDIA (2021) Analysis of algorithms. *WIKIPEDIA*. Available at: <https://en.wikipedia.org/wiki/Analysis_of_algorithms>. Accessed: December 20, 2021.
-{: #ref3}
-
-[4] WIKIPEDIA (2021) Computational complexity theory. *WIKIPEDIA*. Available at: <https://en.wikipedia.org/wiki/Computational_complexity_theory>. Accessed: December 20, 2021.
-{: #ref4}
